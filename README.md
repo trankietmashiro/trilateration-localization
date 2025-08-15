@@ -58,13 +58,6 @@ Given the state, predict expected sensor measurements:
 - Single distance measurements constrain position to a circle around the beacon.
 
 ---
-
-## Tips
-
 - Use at least 3 beacons for good position accuracy.
 - Add a compass or gyro for heading.
-- Tune noise covariances to improve filter performance.
-
----
-
-If you'd like, I can help you with code examples or a Jupyter notebook!  
+- Tune noise covariances to improve filter per
